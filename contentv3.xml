@@ -87,9 +87,9 @@
   <string role="key" value="_name"></string>
   <unicode value="2.1-NATURALES-VIDA"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="39"></int>
+  <int value="41"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="10"></int>
+  <int value="12"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
@@ -466,12 +466,11 @@ text through the text editing buttons associated with the field."></unicode>
                 <dictionary></dictionary>
                 <string role="key" value="content_w_resourcePaths"></string>
                 <unicode content="true" value="&lt;figure class=&quot;exe-figure exe-image float-left license-custom&quot; style=&quot;width: 298px;&quot;&gt;&lt;img src=&quot;resources/1.1ATOMO.png&quot; alt=&quot;&quot; width=&quot;298&quot; height=&quot;209&quot; /&gt;&lt;/figure&gt;
-&lt;p&gt;En física, la materia es todo lo que tiene masa y ocupa espacio. Los organismos vivos y el medioambiente en el que existen están formados por materia. Puede existir en diferentes estados, incluyendo sólido, líquido, gaseoso y plasma, dependiendo de las condiciones de temperatura y presión.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;La materia&lt;/strong&gt; está compuesta por átomos, los cuales son extremadamente pequeños y no se pueden ver a simple vista. Se miden en angstroms, que son 0.1 nanómetros o la diez mil millonésima parte de un metro.&lt;/p&gt;
-&lt;p&gt;Aunque no los podamos ver, es importante comprender las propiedades y el comportamiento de los átomos para entender cómo funcionan los procesos biológicos desde el nivel molecular hasta el nivel de organismos completos.&lt;span style=&quot;font-size: 1.05em;&quot;&gt;Lorem ipsum dolor sit amet...&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Elementos&lt;/strong&gt;&lt;br /&gt;Los átomos que forman los seres vivos, también, son los mismos átomos que forman los seres no vivos, como las rocas y el agua. Esto se debe a que toda la materia del universo está formada por los mismos bloques de construcción, llamados elementos, que pueden combinarse de diferentes maneras. En el universo todo está hecho de uno o más elementos.&lt;br /&gt;En química, los elementos son las sustancias más simples e indivisibles que componen todos los materiales del universo. Un elemento químico es una sustancia que no puede ser descompuesta en sustancias más simples por medios químicos. Hay un total de 118 elementos conocidos, de los cuales 94 ocurren naturalmente. Los elementos se encuentran en la tabla periódica y se clasifican en grupos y períodos en función de sus propiedades químicas y físicas.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Las moléculas&lt;/strong&gt;&lt;br /&gt;Las moléculas son la unión de dos o más átomos unidos mediante enlaces químicos. Las moléculas pueden estar compuestas por átomos del mismo elemento, como el oxígeno (O2); o por átomos de diferentes elementos, como el agua (H2O). Cada molécula tiene propiedades químicas y físicas únicas que están determinadas por su composición y la disposición de sus átomos. Pueden ser compuestos orgánicos (que contienen carbono) o inorgánicos (que no contienen carbono). La mayoría de las sustancias que componen los seres vivos son moléculas, y estas se pueden combinar de varias maneras para formar estructuras más complejas, como células, tejidos, órganos y, en última instancia, organismos completos.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sustancias puras y mezclas&lt;/strong&gt;&lt;br /&gt;La materia puede ser clasificada en dos categorías amplias: sustancias puras y mezclas.&lt;br /&gt;Una sustancia pura es una forma de materia que tiene una composición química uniforme y una serie de propiedades físicas y químicas bien definidas. No puede ser separada en componentes más simples por medios físicos, como la filtración o la decantación. Las sustancias puras pueden ser elementos o compuestos. Un elemento es una sustancia pura que consta de átomos del mismo tipo, mientras que un compuesto es una sustancia pura que consta de moléculas que contienen átomos de dos o más elementos diferentes. &lt;br /&gt;Una mezcla es una combinación física de dos o más sustancias puras en proporciones variables. Las mezclas pueden ser homogéneas o heterogéneas.&lt;/p&gt;"></unicode>
+&lt;p style=&quot;text-align: justify;&quot;&gt;En la física, la materia es todo lo que tiene masa y ocupa espacio. Los organismos vivos y el medioambiente en el que existen están formados por materia. Puede existir en diferentes estados, incluyendo sólido, líquido, gaseoso y plasma, dependiendo de las condiciones de temperatura y presión.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;La materia&lt;/strong&gt; está compuesta por átomos, los cuales son extremadamente pequeños y no se pueden ver a simple vista. Se miden en angstroms, que son 0.1 nanómetros o la diez mil millonésima parte de un metro. Aunque no los podamos ver, es importante comprender las propiedades y el comportamiento de los átomos para entender cómo funcionan los procesos biológicos desde el nivel molecular hasta el nivel de organismos completos.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Elementos&lt;/strong&gt;&lt;br /&gt;Los átomos que forman los seres vivos, también, son los mismos átomos que forman los seres no vivos, como las rocas y el agua. Esto se debe a que toda la materia del universo está formada por los mismos bloques de construcción, llamados elementos, que pueden combinarse de diferentes maneras. En el universo todo está hecho de uno o más elementos. &lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;em&gt;En química&lt;/em&gt;, &lt;/span&gt;los elementos son las sustancias más simples e indivisibles que componen todos los materiales del universo. Un elemento químico es una sustancia que no puede ser descompuesta en sustancias más simples por medios químicos. Hay un total de 118 elementos conocidos, de los cuales 94 ocurren naturalmente. Los elementos se encuentran en la tabla periódica y se clasifican en grupos y períodos en función de sus propiedades químicas y físicas.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Las moléculas&lt;/strong&gt;&lt;br /&gt;Las moléculas son la unión de dos o más átomos unidos mediante enlaces químicos. Las moléculas pueden estar compuestas por átomos del mismo elemento, como el oxígeno (O2); o por átomos de diferentes elementos, como el agua (H2O). Cada molécula tiene propiedades químicas y físicas únicas que están determinadas por su composición y la disposición de sus átomos. Pueden ser compuestos orgánicos (que contienen carbono) o inorgánicos (que no contienen carbono). La mayoría de las sustancias que componen los seres vivos son moléculas, y estas se pueden combinar de varias maneras para formar estructuras más complejas, como células, tejidos, órganos y, en última instancia, organismos completos.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Sustancias puras y mezclas&lt;/strong&gt;&lt;br /&gt;La materia puede ser clasificada en dos categorías amplias: sustancias puras y mezclas.&lt;br /&gt;Una &lt;strong&gt;sustancia pura&lt;/strong&gt; es una forma de materia que tiene una composición química uniforme y una serie de propiedades físicas y químicas bien definidas. No puede ser separada en componentes más simples por medios físicos, como la filtración o la decantación. Las sustancias puras pueden ser elementos o compuestos. Un &lt;strong&gt;elemento&lt;/strong&gt; es una sustancia pura que consta de átomos del mismo tipo, mientras que un compuesto es una sustancia pura que consta de moléculas que contienen átomos de dos o más elementos diferentes. &lt;br /&gt;Una &lt;strong&gt;mezcla&lt;/strong&gt; es una combinación física de dos o más sustancias puras en proporciones variables. Las mezclas pueden ser homogéneas o heterogéneas.&lt;/p&gt;"></unicode>
                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                 <int value="4"></int>
                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -831,11 +830,11 @@ text through the text editing buttons associated with the field."></unicode>
                 <unicode content="true" value="&lt;figure class=&quot;exe-figure exe-image float-left license-custom&quot; style=&quot;width: 222px; text-align: center;&quot;&gt;&lt;img src=&quot;resources/1.2_TRANSPORTE_SANGRE.png&quot; alt=&quot;&quot; width=&quot;222&quot; height=&quot;551&quot; /&gt;
 &lt;figcaption class=&quot;figcaption&quot;&gt;Transporte de la sangre&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt;Los seres vivos se componen de una cantidad limitada de elementos que se encuentran en la tabla periódica. Estos son conocidos como bioelementos y componen la materia viva.&lt;br /&gt;Cada uno de los bioelementos tiene una función específica en los seres vivos. Por ejemplo, el hierro es un componente importante de la hemoglobina, la proteína responsable de transportar el oxígeno en la &lt;br /&gt;sangre; mientras que el calcio es necesario para la formación de huesos y dientes fuertes. Por lo tanto, los organismos vivos dependen de los bioelementos como recursos esenciales para su crecimiento, desarrollo &lt;br /&gt;y supervivencia.&lt;/p&gt;
-&lt;p&gt;Los bioelementos pueden ser clasificados en primarios, secundarios y oligoelementos.&lt;/p&gt;
-&lt;p&gt;Los bioelementos primarios son aquellos que se encuentran en grandes cantidades en los seres vivos, como el carbono (C), el hidrógeno (H), el oxígeno (O), el nitrógeno (N), el fósforo (P) y el azufre (S), que son esenciales para la formación de los principales componentes de los seres vivos.&lt;/p&gt;
-&lt;p&gt;Los bioelementos secundarios son aquellos que se encuentran en cantidades menores en los seres vivos, pero que son igualmente importantes para su supervivencia. Algunos ejemplos son el calcio (Ca), el magnesio (Mg), el potasio (K), el sodio (Na), el cloro (Cl) y el hierro (Fe).&lt;/p&gt;
-&lt;p&gt;En cuanto a los oligoelementos, tambié son importantes para el cuerpo humano, como el yodo, el zinc, el cobre, el selenio, entre otros. Estos oligoelementos están presentes en muy pequeñas cantidades en el cuerpo humano, pero son esenciales para el correcto funcionamiento del organismo.&lt;/p&gt;"></unicode>
+&lt;p&gt;Los seres vivos se componen de una cantidad limitada de elementos que se encuentran en la tabla periódica. Estos son conocidos como bioelementos y componen la materia viva.&lt;br /&gt;Cada uno de los bioelementos tiene una función específica en los seres vivos. Por ejemplo, el hierro es un componente importante de la hemoglobina, la proteína responsable de transportar el oxígeno en la &lt;br /&gt;sangre; mientras que el calcio es necesario para la formación de huesos y dientes fuertes. Por lo tanto, los organismos vivos dependen de los bioelementos como recursos esenciales para su crecimiento, desarrollo y supervivencia.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Los bioelementos pueden ser clasificados en primarios, secundarios y oligoelementos.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Los bioelementos &lt;strong&gt;primarios&lt;/strong&gt; son aquellos que se encuentran en grandes cantidades en los seres vivos, como el carbono (C), el hidrógeno (H), el oxígeno (O), el nitrógeno (N), el fósforo (P) y el azufre (S), que son esenciales para la formación de los principales componentes de los seres vivos.&lt;/p&gt;
+&lt;p&gt;Los bioelementos &lt;strong&gt;secundarios&lt;/strong&gt; son aquellos que se encuentran en cantidades menores en los seres vivos, pero que son igualmente importantes para su supervivencia. Algunos ejemplos son el calcio (Ca), el magnesio (Mg), el potasio (K), el sodio (Na), el cloro (Cl) y el hierro (Fe).&lt;/p&gt;
+&lt;p&gt;En cuanto a los &lt;strong&gt;oligoelementos&lt;/strong&gt;, tambié son importantes para el cuerpo humano, como el yodo, el zinc, el cobre, el selenio, entre otros. Estos oligoelementos están presentes en muy pequeñas cantidades en el cuerpo humano, pero son esenciales para el correcto funcionamiento del organismo.&lt;/p&gt;"></unicode>
                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                 <int value="4"></int>
                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1196,12 +1195,11 @@ text through the text editing buttons associated with the field."></unicode>
                 <unicode content="true" value="&lt;figure class=&quot;exe-figure exe-image float-right license-custom&quot; style=&quot;width: 300px;&quot;&gt;&lt;img src=&quot;resources/1.3_agua.jpeg&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;168&quot; /&gt;
 &lt;figcaption class=&quot;figcaption&quot;&gt;Agua&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt;Las moléculas de &lt;strong&gt;agua&lt;/strong&gt; se atraen entre sí mediante enlaces de hidrógeno. Esta cohesión entre las moléculas, provocada por dichos enlaces causa tensión superficial, ya que la superficie del agua se resiste a romperse. Debido a esto podemos observar hojas flotando en la superficie del agua e insectos acuáticos corriendo sobre el agua. Otra propiedad del agua es la adhesión, es decir, la tendencia a pegarse a las superficies que poseen cargas ligeras que atraen a las moléculas polares del agua. Te has preguntado ¿cómo llega el agua desde las raíces de una planta a las hojas? Es la adhesión la que permite que el agua ascienda desde las raíces hasta las hojas.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Un solvente&lt;/strong&gt; es una sustancia que disuelve otras. La amplia capacidad del agua para disolver más sustancias que cualquier otro líquido le ha valido la designación de «solvente universal». El agua disuelve muchas moléculas que son importantes para la vida y es esta capacidad la que hace que el agua sea una fuerza tan valiosa para sustentar la vida. El agua también, disuelve otras moléculas polares, ya que sus polos positivo y negativo atraen los polos de cargas opuestas. Por esta atracción hacia las moléculas del agua, los iones y moléculas polares son hidrofílicos y se disuelven fácilmente en agua. Las moléculas con enlaces covalentes no polares, como grasas y aceites, no se disuelven en agua y por eso se llaman hidrofóbicas.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;El agua y los cambios de temperatura&lt;/strong&gt;&lt;br /&gt;Nuestro cuerpo y el de otros organismos no pueden sobrevivir fuera de ciertos límites de temperatura. Las temperaturas elevadas dañan las enzimas que favorecen las reacciones químicas esenciales para la vida. Las temperaturas bajas también son peligrosas, puesto que la acción de las enzimas disminuye cuando se enfría. El agua tiene propiedades importantes que moderan los efectos de los cambios de temperatura y mantienen a los organismos dentro de límites de temperatura tolerables.&lt;br style=&quot;clear: both;&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;figure class=&quot;exe-figure exe-image float-left license-custom&quot; style=&quot;width: 586px;&quot;&gt;&lt;img src=&quot;resources/1.3.2_agua.png&quot; alt=&quot;ESCALA PH&quot; width=&quot;586&quot; height=&quot;323&quot; /&gt;&lt;/figure&gt;
-&lt;p&gt;La &lt;strong&gt;escala de pH&lt;/strong&gt;. es una medida de la acidez o basicidad de una solución acuosa. Esta escala va de 0 a 14, siendo 0 el valor más ácido, 14 el valor más básico y 7 el valor neutro. Una solución con un pH menor a 7 se considera ácida, mientras que una solución con un pH mayor a 7 se considera básica. Una solución con un pH de 7 se considera neutra. Las sustancias que pueden donar un ion de hidrógeno (H+) se consideran ácidos, mientras que las sustancias que pueden aceptar un ion de hidrógeno se consideran bases. Una solución neutra tiene un número igual de &lt;br /&gt;iones de hidrógeno e iones de hidróxido (OH-).&lt;/p&gt;
-&lt;p&gt;&lt;br style=&quot;clear: both;&quot; /&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;"></unicode>
+&lt;p style=&quot;text-align: justify;&quot;&gt;Las moléculas de &lt;strong&gt;agua&lt;/strong&gt; se atraen entre sí mediante enlaces de hidrógeno. Esta cohesión entre las moléculas, provocada por dichos enlaces causa tensión superficial, ya que la superficie del agua se resiste a romperse. Debido a esto podemos observar hojas flotando en la superficie del agua e insectos acuáticos corriendo sobre el agua. Otra propiedad del agua es la adhesión, es decir, la tendencia a pegarse a las superficies que poseen cargas ligeras que atraen a las moléculas polares del agua. Te has preguntado ¿cómo llega el agua desde las raíces de una planta a las hojas? Es la adhesión la que permite que el agua ascienda desde las raíces hasta las hojas.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Un solvente&lt;/strong&gt; es una sustancia que disuelve otras. La amplia capacidad del agua para disolver más sustancias que cualquier otro líquido le ha valido la designación de «solvente universal». El agua disuelve muchas moléculas que son importantes para la vida y es esta capacidad la que hace que el agua sea una fuerza tan valiosa para sustentar la vida. El agua también, disuelve otras moléculas polares, ya que sus polos positivo y negativo atraen los polos de cargas opuestas. Por esta atracción hacia las moléculas del agua, los iones y moléculas polares son hidrofílicos y se disuelven fácilmente en agua. Las moléculas con enlaces covalentes no polares, como grasas y aceites, no se disuelven en agua y por eso se llaman hidrofóbicas.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;El agua y los cambios de temperatura&lt;/strong&gt;&lt;br /&gt;Nuestro cuerpo y el de otros organismos no pueden sobrevivir fuera de ciertos límites de temperatura. Las temperaturas elevadas dañan las enzimas que favorecen las reacciones químicas esenciales para la vida. Las temperaturas bajas también son peligrosas, puesto que la acción de las enzimas disminuye cuando se enfría. El agua tiene propiedades importantes que moderan los efectos de los cambios de temperatura y mantienen a los organismos dentro de límites de temperatura tolerables.&lt;br style=&quot;clear: both;&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;figure class=&quot;exe-figure exe-image float-left license-custom&quot; style=&quot;width: 586px; text-align: justify;&quot;&gt;&lt;img src=&quot;resources/1.3.2_agua.png&quot; alt=&quot;ESCALA PH&quot; width=&quot;586&quot; height=&quot;323&quot; /&gt;&lt;/figure&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;La &lt;strong&gt;escala de pH&lt;/strong&gt;. es una medida de la acidez o basicidad de una solución acuosa. Esta escala va de 0 a 14, siendo 0 el valor más ácido, 14 el valor más básico y 7 el valor neutro. Una solución con un pH menor a 7 se considera ácida, mientras que una solución con un pH mayor a 7 se considera básica. Una solución con un pH de 7 se considera neutra. Las sustancias que pueden donar un ion de hidrógeno (H+) se consideran ácidos, mientras que las sustancias que pueden aceptar un ion de hidrógeno se consideran bases. Una solución neutra tiene un número igual de iones de hidrógeno e iones de hidróxido (OH-).&lt;/p&gt;"></unicode>
                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                 <int value="4"></int>
                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1494,11 +1492,9 @@ that may help or hinder the learner in the performance of the task."></unicode>
                  <string role="key" value="anchors_linked_from_fields"></string>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;p&gt;Contesta en tu &lt;strong&gt;cuaderno&lt;/strong&gt; y en una hoja blanca, &lt;strong&gt;para entrega&lt;/strong&gt; al maestro:&lt;br /&gt;– ¿Cuál es la importancia del agua para los seres vivos?&lt;/p&gt;
-&lt;p&gt;– ¿Cuáles son las propiedades del agua?&lt;/p&gt;
-&lt;p&gt;– ¿Cuál es el uso que se le da al agua para los seres vivos?&lt;/p&gt;
-&lt;p&gt;– ¿Que es el PH del agua y como afecta a los seres vivos?&lt;/p&gt;
-&lt;p&gt;Luego, elaborar una &lt;strong&gt;infografía&lt;/strong&gt; sobre cómo podemos hacer un buen uso de &lt;br /&gt;este recurso en nuestro hogar.&lt;/p&gt;"></unicode>
+                 <unicode content="true" value="&lt;p&gt;Contesta en tu &lt;strong&gt;cuaderno&lt;/strong&gt; y en una hoja blanca, &lt;strong&gt;para entrega&lt;/strong&gt; al maestro:&lt;/p&gt;
+&lt;p&gt;– ¿Cuál es la importancia del agua para los seres vivos?&lt;br /&gt;– ¿Cuáles son las propiedades del agua?&lt;br /&gt;– ¿Cuál es el uso que se le da al agua para los seres vivos?&lt;br /&gt;– ¿Que es el PH del agua y como afecta a los seres vivos?&lt;/p&gt;
+&lt;p&gt;Luego, elaborar una &lt;strong&gt;infografía&lt;/strong&gt; sobre cómo podemos hacer un buen uso de este recurso en nuestro hogar.&lt;/p&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
                  <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2390,7 +2386,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="53">
+      <instance class="exe.engine.node.Node" reference="59">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="UNIDAD 2: BIOMOLÉCULAS  ORGÁNICAS"></unicode>
@@ -2414,16 +2410,288 @@ that may help or hinder the learner in the performance of the task."></unicode>
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="54">
+         <instance class="exe.engine.node.Node" reference="55">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Tema 5: Características de las biomoléculas orgánicas"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.genericidevice.GenericIdevice" reference="53">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Preknowledge"></unicode>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_purpose"></string>
+              <unicode value="Prerequisite knowledge refers to the knowledge learners should already
+have in order to be able to effectively complete the learning. Examples of
+pre-knowledge can be: &lt;ul&gt;
+&lt;li&gt;        Learners must have level 4 English &lt;/li&gt;
+&lt;li&gt;        Learners must be able to assemble standard power tools &lt;/li&gt;&lt;/ul&gt;
+"></unicode>
+              <string role="key" value="_tip"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Preknowledge"></unicode>
+              <string role="key" value="class_"></string>
+              <unicode value="preknowledge"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.genericidevice.GenericIdevice.persistenceVersion"></string>
+              <int value="11"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="54">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="150_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="53"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <unicode value="Describe the prerequisite knowledge learners should have to effectively
+complete this learning."></unicode>
+                 <string role="key" value="_name"></string>
+                 <unicode value="Preknowledge"></unicode>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;p&gt;¿Cuándo decimos que un compuesto es orgánico?&lt;/p&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="54"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <none></none>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value="preknowledge"></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="39"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <unicode value="preknowledge"></unicode>
+              <string role="key" value="parentNode"></string>
+              <reference key="55"></reference>
+              <string role="key" value="systemResources"></string>
+              <list>
+               <string value="common.js"></string>
+              </list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="56">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Free Text"></unicode>
+              <string role="key" value="_author"></string>
+              <unicode value="University of Auckland"></unicode>
+              <string role="key" value="_purpose"></string>
+              <unicode value="The majority of a learning resource will be 
+establishing context, delivering instructions and providing general information.
+This provides the framework within which the learning activities are built and 
+delivered."></unicode>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Free Text"></unicode>
+              <string role="key" value="childs"></string>
+              <list></list>
+              <string role="key" value="content"></string>
+              <instance class="exe.engine.field.TextAreaField" reference="57">
+               <dictionary>
+                <string role="key" value="_id"></string>
+                <int value="85"></int>
+                <string role="key" value="_idevice"></string>
+                <reference key="56"></reference>
+                <string role="key" value="_instruc"></string>
+                <unicode value="Use this field to enter text. This 
+iDevice has no emphasis applied although limited formatting can be applied to 
+text through the text editing buttons associated with the field."></unicode>
+                <string role="key" value="_name"></string>
+                <unicode value="Free Text"></unicode>
+                <string role="key" value="anchor_names"></string>
+                <list></list>
+                <string role="key" value="anchors_linked_from_fields"></string>
+                <dictionary></dictionary>
+                <string role="key" value="content_w_resourcePaths"></string>
+                <unicode content="true" value="&lt;figure class=&quot;exe-figure exe-image float-right license-custom&quot; style=&quot;width: 622px;&quot;&gt;&lt;img src=&quot;resources/2.1_biomoleulas.png&quot; alt=&quot;&quot; width=&quot;622&quot; height=&quot;253&quot; /&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Tipos de biomoléculas orgánicas&lt;/strong&gt;&lt;br /&gt;Las moléculas orgánicas son aquellas que poseen una estructura central formada por uno o varios átomos de carbono unidos en cadena. Alrededor de esta estructura central se encuentran otros átomos, como el oxígeno, hidrógeno, azufre, nitrógeno, etc. El átomo de carbono puede establecer enlaces en cuatro direcciones diferentes, esto permite que elabore complejas redes en diferentes direcciones. Para elaborar moléculas orgánicas de gran tamaño las células unen moléculas orgánicas de pequeño tamaño del mismo tipo. Esta estrategia se llama polimerización. &lt;br /&gt;Un polímero es una molécula grande formada por las unidades similares más pequeñas que reciben el nombre de monómeros. Las principales moléculas orgánicas son los carbohidratos, los lípidos, las proteínas y los ácidos nucleicos.&lt;br /&gt;Debido a la gran abundancia de compuestos orgánicos en los seres vivos, durante mucho tiempo se pensó que dichas composiciones sólo podían ser elaborados por plantas o animales. Esta teoría se denominó vitalismo, y sostenía la creencia de que las leyes de la física y la química que regían el comportamiento de la materia inanimada no se aplicaban a los seres vivos. El químico alemán Friedrich Wöhler, en 1828, pudo sintetizar por primera vez un compuesto orgánico en el laboratorio a partir de compuestos inorgánicos. Al sintetizar urea en frascos de cristal demostró que los seres vivos estaban sujetos a las mismas leyes de la química y de la física que el resto de la materia. Se considera que en este momento surgio la química orgánica.surgio la química orgánica.&lt;/p&gt;"></unicode>
+                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                <int value="4"></int>
+                <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                <int value="2"></int>
+                <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="htmlTag"></string>
+                <string value="div"></string>
+                <string role="key" value="images"></string>
+                <instance class="exe.engine.galleryidevice.GalleryImages">
+                 <dictionary>
+                  <string role="key" value=".listitems"></string>
+                  <list>
+                   <instance class="exe.engine.galleryidevice.GalleryImage">
+                    <dictionary>
+                     <string role="key" value="_caption"></string>
+                     <instance class="exe.engine.field.TextField">
+                      <dictionary>
+                       <string role="key" value="_id"></string>
+                       <int value="244"></int>
+                       <string role="key" value="_idevice"></string>
+                       <none></none>
+                       <string role="key" value="_instruc"></string>
+                       <string value=""></string>
+                       <string role="key" value="_name"></string>
+                       <string value=""></string>
+                       <string role="key" value="content"></string>
+                       <string value=""></string>
+                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                       <int value="4"></int>
+                      </dictionary>
+                     </instance>
+                     <string role="key" value="_id"></string>
+                     <unicode value="40_85.0"></unicode>
+                     <string role="key" value="_imageResource"></string>
+                     <instance class="exe.engine.resource.Resource" reference="58">
+                      <dictionary>
+                       <string role="key" value="_idevice"></string>
+                       <reference key="56"></reference>
+                       <string role="key" value="_package"></string>
+                       <reference key="4"></reference>
+                       <string role="key" value="_storageName"></string>
+                       <string value="2.1_biomoleulas.png"></string>
+                       <string role="key" value="_userName"></string>
+                       <string value="c:\\users\\jeanpc~1\\appdata\\local\\temp\\tmpgf3d4k.eXe\\previews\\allyourbase\\2.1_biomoleulas.png"></string>
+                       <string role="key" value="checksum"></string>
+                       <string value="bcafcdf72a70b6dd574a71152e41e060"></string>
+                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                       <int value="2"></int>
+                       <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                       <int value="2"></int>
+                       <string role="key" value="warningMsg"></string>
+                       <string value=""></string>
+                      </dictionary>
+                     </instance>
+                     <string role="key" value="_parent"></string>
+                     <reference key="57"></reference>
+                     <string role="key" value="_thumbnailResource"></string>
+                     <none></none>
+                     <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                     <int value="3"></int>
+                     <string role="key" value="makeThumbnail"></string>
+                     <bool value="0"></bool>
+                    </dictionary>
+                   </instance>
+                  </list>
+                  <string role="key" value="idevice"></string>
+                  <reference key="57"></reference>
+                 </dictionary>
+                </instance>
+                <string role="key" value="intlinks_to_anchors"></string>
+                <dictionary></dictionary>
+                <string role="key" value="nextImageId"></string>
+                <int value="1"></int>
+                <string role="key" value="parentNode"></string>
+                <reference key="55"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.freetextidevice.FreeTextIdevice.persistenceVersion"></string>
+              <int value="7"></int>
+              <string role="key" value="icon"></string>
+              <string value=""></string>
+              <string role="key" value="id"></string>
+              <unicode value="40"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parent"></string>
+              <none></none>
+              <string role="key" value="parentNode"></string>
+              <reference key="55"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="type"></string>
+              <none></none>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list>
+               <reference key="58"></reference>
+              </list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="6"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="4"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:CIENCIAS%20DE%20LA%20VIDA%202%C2%B0%20SECUNDARIA:UNIDAD%202%3A%20BIOMOL%C3%89CULAS%20%20ORG%C3%81NICAS:Tema%205%3A%20Caracter%C3%ADsticas%20de%20las%20biomol%C3%A9culas%20org%C3%A1nicas"></string>
+           <string role="key" value="parent"></string>
+           <reference key="59"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="60">
           <dictionary>
            <string role="key" value="_title"></string>
            <string value=""></string>
            <string role="key" value="idevices"></string>
            <list></list>
            <string role="key" value="_id"></string>
-           <unicode value="6"></unicode>
+           <unicode value="10"></unicode>
            <string role="key" value="_package"></string>
            <reference key="4"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
@@ -2431,7 +2699,35 @@ that may help or hinder the learner in the performance of the task."></unicode>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:CIENCIAS%20DE%20LA%20VIDA%202%C2%B0%20SECUNDARIA:UNIDAD%202%3A%20BIOMOL%C3%89CULAS%20%20ORG%C3%81NICAS:Secci%C3%B3n"></string>
            <string role="key" value="parent"></string>
-           <reference key="53"></reference>
+           <reference key="59"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="61">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <string value=""></string>
+           <string role="key" value="idevices"></string>
+           <list></list>
+           <string role="key" value="_id"></string>
+           <unicode value="11"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="4"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:CIENCIAS%20DE%20LA%20VIDA%202%C2%B0%20SECUNDARIA:UNIDAD%202%3A%20BIOMOL%C3%89CULAS%20%20ORG%C3%81NICAS:Secci%C3%B3n"></string>
+           <string role="key" value="parent"></string>
+           <reference key="59"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
            <string role="key" value="children"></string>
            <list></list>
           </dictionary>
@@ -2444,6 +2740,10 @@ that may help or hinder the learner in the performance of the task."></unicode>
    </instance>
    <unicode role="key" value="1"></unicode>
    <reference key="10"></reference>
+   <unicode role="key" value="10"></unicode>
+   <reference key="60"></reference>
+   <unicode role="key" value="11"></unicode>
+   <reference key="61"></reference>
    <unicode role="key" value="2"></unicode>
    <reference key="18"></reference>
    <unicode role="key" value="3"></unicode>
@@ -2451,9 +2751,9 @@ that may help or hinder the learner in the performance of the task."></unicode>
    <unicode role="key" value="4"></unicode>
    <reference key="7"></reference>
    <unicode role="key" value="5"></unicode>
-   <reference key="53"></reference>
+   <reference key="59"></reference>
    <unicode role="key" value="6"></unicode>
-   <reference key="54"></reference>
+   <reference key="55"></reference>
    <unicode role="key" value="7"></unicode>
    <reference key="37"></reference>
    <unicode role="key" value="8"></unicode>
@@ -2470,7 +2770,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="50"></reference>
+  <reference key="26"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -3731,6 +4031,10 @@ that may help or hinder the learner in the performance of the task."></unicode>
    <string role="key" value="b037b7bc49dce45d68f1554592ac1c32"></string>
    <list>
     <reference key="21"></reference>
+   </list>
+   <string role="key" value="bcafcdf72a70b6dd574a71152e41e060"></string>
+   <list>
+    <reference key="58"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
